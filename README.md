@@ -7,3 +7,5 @@ One, totally untested case file uploaded now. PCB doesn't fit any cases by World
 
 
 ![alphalpha](https://user-images.githubusercontent.com/69826495/145157608-8e7f0370-3d60-4eec-b00d-0090a1680db5.jpeg)
+
+![alphalpha case v1](https://user-images.githubusercontent.com/69826495/146598367-1dc3a7b7-6256-433f-82f5-30f910381fec.PNG)
