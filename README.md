@@ -3,7 +3,9 @@ Take the Alpha by PyroL (https://github.com/PyrooL/Alpha.git) and add an alpha k
 
 I'm pretty sure this design is functional but honestly haven't tested it yet. 
 
-One, totally untested case file uploaded now. PCB doesn't fit any cases by Worldspawn or Soft or yer mama. Order at your own peril!
+PCB doesn't fit any cases by Worldspawn or Soft or yer mama. Order at your own peril!
+
+Case file is a WIP, not fit for human consumption. Revision in progress...
 
 
 ![alphalpha](https://user-images.githubusercontent.com/69826495/145157608-8e7f0370-3d60-4eec-b00d-0090a1680db5.jpeg)
